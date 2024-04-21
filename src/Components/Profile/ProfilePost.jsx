@@ -114,14 +114,6 @@ const ProfilePost = ({img}) => {
                                 profilepic="https://bit.ly/kent-c-dodds"
                                 text="cool post"/>
 
-
-
-                                {/*  */}
-
-
-                                {/*  */}
-
-
                             </VStack>
                             <Divider my={4} bg={"white.600"}/>
 
